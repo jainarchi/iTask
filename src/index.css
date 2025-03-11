@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    /* background-color: rgb(242, 238, 246); */
+ background-image: url(https://img.freepik.com/free-photo/workplace-items-arrangement-flat-lay_23-2148975821.jpg?t=st=1733659671~exp=1733663271~hmac=b3168484071083ada398f8e2d91fc095d5b4b3077c84c256884a4e37c28ef261&w=1060);
+ background-size: cover;
+ background-repeat: no-repeat;
+
+}
+
+
+.mainbox{
+    box-shadow: 15px 10px 60px rgb(18, 17, 18) ;    
+}
